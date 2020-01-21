@@ -10,5 +10,5 @@ The protocol is described Teltonika Wiki
 
 
 ### License
-IRMA onAir Web is an open source project by [iris-GmbH](https://www.irisgmbh.de) that is licensed under [MIT](http://opensource.org/licenses/MIT).
+The examples on this page are open source projects by [iris-GmbH](https://www.irisgmbh.de) that are licensed under [MIT](http://opensource.org/licenses/MIT).
 iris-GmbH reserves the right to change the license of future releases.
